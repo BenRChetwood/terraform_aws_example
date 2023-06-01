@@ -8,12 +8,12 @@ https://courses.devopsdirective.com/terraform-beginner-to-pro/lessons/02-terrafo
 
 # Useful terminology
 AMI
-- The AMI resource allows the creation and management of a completely-custom Amazon Machine Image
+-The AMI resource allows the creation and management of a completely-custom Amazon Machine Image
 Terraform Provider
-- Providers are a logical abstraction of an upstream API. They are responsible for understanding API interactions and exposing resources. This is what allows Terraform to connect with your platform of choice.
+-Providers are a logical abstraction of an upstream API. They are responsible for understanding API interactions and exposing resources. This is what allows Terraform to connect with your platform of choice.
 Terraform Registry 
-- Where you can find information about the many providers, such as AWS https://registry.terraform.io/providers/hashicorp/aws/latest
-- resources you can define for each, such as S3 buckets https://registry.terraform.io/modules/terraform-aws-modules/s3-bucket/aws/latest
+-Where you can find information about the many providers, such as AWS https://registry.terraform.io/providers/hashicorp/aws/latest
+-resources you can define for each, such as S3 buckets https://registry.terraform.io/modules/terraform-aws-modules/s3-bucket/aws/latest
 	
 # Installing Terraform
 Excellent instructions for installing and verifying Terraform can be found here
